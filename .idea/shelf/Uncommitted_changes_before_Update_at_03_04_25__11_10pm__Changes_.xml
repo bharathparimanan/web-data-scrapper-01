@@ -1,0 +1,40 @@
+<changelist name="Uncommitted_changes_before_Update_at_03_04_25,_11_10 pm_[Changes]" date="1743718229342" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_04_25,_11_10 pm_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 03/04/25, 11:10 pm [Changes]" />
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.12/site-packages/pip/_vendor/distlib/w64.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_04_25,_11_10 pm_[Changes]/w64.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/bin/python" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_04_25,_11_10 pm_[Changes]/python" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.12/site-packages/pip/_vendor/distlib/w32.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_04_25,_11_10 pm_[Changes]/w32.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.12/site-packages/pip/_vendor/distlib/t64.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_04_25,_11_10 pm_[Changes]/t64.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/bin/python3" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_04_25,_11_10 pm_[Changes]/python3" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/bin/python3.12" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_04_25,_11_10 pm_[Changes]/python3.12" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.12/site-packages/pip/_vendor/distlib/t64-arm.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_04_25,_11_10 pm_[Changes]/t64-arm.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.12/site-packages/pip/_vendor/distlib/w64-arm.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_04_25,_11_10 pm_[Changes]/w64-arm.exe" />
+  </binary>
+  <binary>
+    <option name="AFTER_PATH" value=".venv/lib/python3.12/site-packages/pip/_vendor/distlib/t32.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_04_25,_11_10 pm_[Changes]/t32.exe" />
+  </binary>
+</changelist>
